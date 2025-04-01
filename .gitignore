@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+STREAMLIT_DEPLOYMENT.md
+.venv/
+.env
+test_files/
+*.wav
+*.mp3
